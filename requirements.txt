@@ -1,0 +1,4 @@
+discord==1.7.3
+emoji.py
+flask.py
+pytz.py
